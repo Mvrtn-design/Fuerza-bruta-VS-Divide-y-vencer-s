@@ -1,6 +1,6 @@
 # Fuerza-bruta-VS-Divide-y-vencerás
 Fuerza bruta vs Divide y vencerás
-<div id="texto" text="center">
+<div id="texto" align="justify">
 Se aborda aquí las diferentes formas de obtener las inversiones de vectores tanto con contenido aleatorio como rellenado por el propio usuario con el fin de tener una percepción de la duración de ambos métodos para así optar por el uso de uno y otro a conveniencia. Los algoritmos serán los siguientes:
 
 - Fuerza bruta.
